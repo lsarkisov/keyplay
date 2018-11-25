@@ -10,11 +10,7 @@ if you are Mac OS user you can use `brew install cmake, make, autoconf automake 
 
 ### Build project
 - cd <keyplay root direcotry>
-- mkdir build
-- cd build
-- cmake ..
-- make
-- ./keyplay
+- mkdir build && cd build && cmake .. && make && ./keyplay
 
 ### TO DO:
 - implement text board
